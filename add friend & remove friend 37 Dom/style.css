@@ -1,0 +1,44 @@
+
+body{
+   display: flex;
+   justify-content:center ;
+   align-items: center;
+
+}
+#card{
+    /* height: 300px; */
+    /* width: 50%; */
+    color:  pink;
+    border: 10px solid black;
+    border-radius: 20px;
+    justify-content:center ;
+    align-items: center;
+   
+}
+
+h2{
+    padding: 20px;
+    margin: 30px;
+    color: rgb(255, 0, 0);
+    background-color: aqua;
+    border-radius: 20px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+h5{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    color: green;
+    font-size: larger;
+}
+#butt{
+    margin: 0px 0px 10px 55px;
+    padding: 10px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    color: black;
+    font-size: larger;
+}
